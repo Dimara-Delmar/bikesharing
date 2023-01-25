@@ -1,6 +1,6 @@
 # Add files to ignore
 citidata.csv
-201908_citibike_tripdata.csv
+201908-citibike-tripdata.csv
 
 # Compiled class file
 *.class
